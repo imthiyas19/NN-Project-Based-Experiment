@@ -123,8 +123,8 @@ print(x_single_prediction)
 ### Training Loss, Validation Loss Vs Iteration Plot
 
 
+![327069562-0ca2a8a6-c073-4614-a79e-f3b6e3014c51](https://github.com/imthiyas19/NN-Project-Based-Experiment/assets/120353416/1366cd55-5f41-49d4-b4a4-bd6600553994)
 
-![327069562-0ca2a8a6-c073-4614-a79e-f3b6e3014c51](https://github.com/imthiyas19/NN-Project-Based-Experiment/assets/120353416/34b9c33b-4f14-4fe9-b0f6-526ebcda2fc4)
 
 
 ![327069586-03736eca-8502-4e67-b5a2-1233738be049](https://github.com/imthiyas19/NN-Project-Based-Experiment/assets/120353416/e759005b-8cff-49de-b1c4-223f26a70cc9)
