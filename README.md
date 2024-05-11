@@ -29,9 +29,9 @@ Visualize the training/validation loss and accuracy over epochs to understand th
 
 # Program:
 
-NAME : Sabari Akash A
+NAME : Mohammed imthiyas .M
 
-REG NO:212222230124
+REG NO:212222230083
 
 ```py
 import numpy as np
